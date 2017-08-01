@@ -13,10 +13,10 @@ question = raw_input('Ban da co token full quyen chua (Y or N) ')
 
 if question.upper() == 'Y':
     token = raw_input('nhap token: ')
-    print question
+    
 else:
     token = gettoken()
-print token
+    print token
 
 idfb = raw_input('Id fb nguoi ban muon bao:=> ' )
 payload = {'method': 'get', 'access_token':token}
