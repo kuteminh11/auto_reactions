@@ -19,6 +19,7 @@ Bước 4 Bật cmd bấm cd Desktop .
 
 Bước 5 bấm python tên fb.py
 
+Bước 6 https://findmyfbid.com dán link profile người muốn spam vào lấy id để chạy 
 
 # Lưu ý 
 Token phai FULL QUYỀN Code mình có get sẵn nếu bạn chưa có token
