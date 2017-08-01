@@ -13,7 +13,7 @@ các bác đọc comment này giùm em nha
 
 sau đó cài đặt cứ next next nha
 
-bước 2 https://gist.github.com/minhkhoa2000/e548243ccfd20a6d7e688bc916f76afc các bác vào đây code hết code vào tường nhà của mình bấm f12 console rồi dán đoạn đó vào sẽ nhận được mã token
+bước 2 https://gist.github.com/minhkhoa2000/f21e285e9837a84e2f498b3ad831eb4b code get token .php 
 
 Bước 3 https://github.com/minhkhoa2000/auto_reactions/blob/master/fb.py các bác vào đây coppy đoạn mã lưu ở desktop với tên fb.py rồi thêm đoạn token ở bước 2 vào chỗ token = '' 
 
