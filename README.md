@@ -18,7 +18,8 @@ Bước 5 bấm python tên fb.py
 
 
 # Lưu ý 
-Token Phai FULL QUYỀN Code mình có get sẵn nếu bạn chưa có token 
+Token Phai FULL QUYỀN Code mình có get sẵn nếu bạn chưa có token
+
 mình không lưu thông tin token của các bạn username hay password các bạn kiểm tra tại https://github.com/minhkhoa2000/auto_reactions/blob/master/gettoken.php
 
 Cảm ơn đã tin tưởng sử dụng 
