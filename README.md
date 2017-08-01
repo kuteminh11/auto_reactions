@@ -4,4 +4,4 @@
 
 Add your token to the 6th line
 
-python fb.py
+~ python fb.py
