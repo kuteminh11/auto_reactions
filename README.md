@@ -6,19 +6,19 @@ Add your token to the 6th line (Full quyền nha)
 
 ~ python fb.py
 
-#mother fucker
-các bác đọc comment này giùm em nha 
+# mother fucker
 
-đầu tiên các bác vào https://www.python.org/ ở chỗ download các bác chọn 2.7.13
+Bước 1 cài python các bác xem video này giùm em nha https://www.youtube.com/watch?v=UPZvzlfsiaY
+Buoc 2 cài lib requests xem video  này giùm em nha https://www.youtube.com/watch?v=-OB2wUFT3Bg https://pypi.python.org/pypi/requests
 
-sau đó cài đặt cứ next next nha
+Bước 3 các bác coppy code của em https://github.com/minhkhoa2000/auto_reactions/blob/master/fb.py
+        lưu ở desktop tên fb.py 
+Bước 4 Bật cmd bấm cd Desktop .
+Bước 5 bấm python tên fb.py
 
 
-Bước 2 https://github.com/minhkhoa2000/auto_reactions/blob/master/fb.py các bác vào đây coppy đoạn mã lưu ở desktop với tên fb.py rồi thêm đoạn token ở bước 2 vào chỗ token = '' 
+# Lưu ý 
+Token Phai FULL QUYỀN Code mình có get sẵn nếu bạn chưa có token 
+mình không lưu thông tin token của các bạn username hay password các bạn kiểm tra tại https://github.com/minhkhoa2000/auto_reactions/blob/master/gettoken.php
 
-bước 3 bật cmd bấm cd Desktop
-
-bước 4 bấm python fb.py 
-
-bước  vào https://findmyfbid.com/ dán tường nhà bạn muốn spam reactions nó ra đoạn id thì coppy vào cmd
-
+Cảm ơn đã tin tưởng sử dụng 
