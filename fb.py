@@ -1,6 +1,7 @@
 import requests, json, time, random
 
-idfb = raw_input('ID Bao Like => ' )
+
+idfb = raw_input('Id fb nguoi ban muon bao:=> ' )
 
 #gan token full quyen vao day
 token = ''
